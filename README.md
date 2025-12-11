@@ -36,4 +36,4 @@ python run_model.py
 * LLM training code (Transformer Based) by using torch, numpy and tokenizer.
 * Detailed Explanation about RL and how it works integrated to Slides.
 * Different RL model will be written as a service like BasicLLM. 
-* Differen Pure RL training codes will be provided. 
+* Differen Pure RL training codes will be provided for different models. 
