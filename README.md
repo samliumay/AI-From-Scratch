@@ -30,3 +30,11 @@ python run_model.py
 * https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/
 * http://neuralnetworksanddeeplearning.com/
 * https://atlas.mitre.org/matrices/ATLAS
+
+#### Feature Plans:
+* Detailed Explanation about how LLM () training works integrated to Slides.
+* LLM training code by using torch, numpy and tokenizer.
+* Platformizing the LLM training code for automated training.
+* Detailed Explanation about RL and how it works integrated to Slides.
+* Different RL model will be written as a service like BasicLLM. 
+* Differen Pure RL training codes will be provided. 
