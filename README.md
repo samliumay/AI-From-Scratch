@@ -42,13 +42,15 @@ The repository flows through the evolution of AI, fitting John McCarthy's defini
 
 ---
 
-## Getting Started
+## Running Example Models
 
-### Prerequisites
+### basicLLM
+
+#### Prerequisites
 * Python 3.8+
 * Virtualenv (recommended)
 
-### Installation & Running `basicLLM`
+#### Installation & Running `basicLLM`
 
 1.  **Clone the repository:**
     ```bash
@@ -80,12 +82,15 @@ The repository flows through the evolution of AI, fitting John McCarthy's defini
 
 ## Roadmap & Future Plans
 
-- [ ] **Transformer Deep Dive:** Detailed code breakdown of Self-Attention mechanisms using PyTorch & NumPy.
-- [ ] **Reinforcement Learning (RL):**
-    - Theory integrated into slides.
-    - Pure RL training codes for different environments.
-    - RL model as a service.
-- [ ] **Security Labs:** Practical examples of LLM vulnerabilities (Red Teaming basics).
+* Detailed Explanation about how LLM (Transformer Based) training works integrated to Slides.
+
+* LLM training code (Transformer Based) by using torch, numpy and tokenizer.
+
+* Detailed Explanation about RL and how it works integrated to Slides.
+
+* Different RL model will be written as a service like BasicLLM.
+
+* Differen Pure RL training codes will be provided for different models.
 
 ---
 
